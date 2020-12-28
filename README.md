@@ -2,6 +2,8 @@
 
 This is a basic 2D game I made in my first year of uni back in 2016. 
 
+![screenshot](example/game.png)
+
 ## Preparing
 * You will need FPC
 * On windows you will need mingw and fpc
